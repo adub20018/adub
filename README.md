@@ -3,7 +3,7 @@
 <h3>About Me...</h3>
 <p>I'm a self-taught developer, currently freelancing in web dev.
 <br/>
-right now I'm learning Astro, React, and Javascript.
+Right now I'm learning Astro, React, and Javascript.
 </p>
 
 <h3>What about my personal life?</h3>
