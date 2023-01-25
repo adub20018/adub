@@ -10,11 +10,6 @@ In my spare time, i am a philosopher, amateur astronomer, student of the interne
   
 <h2>How to reach me</h2>
 
-<a href="https://discordapp.com/users/376211192307384330/">
-<img src="discord.png" height="11px" position="inline"/>
-Discord</a>
+<a href="https://discordapp.com/users/376211192307384330/">Discord</a>
 
-<br/>
-<a href="mailto:alex.w.malone128@gmail.com">
-<img src="gmail.png" height="11px">
-Email</a>
+<a href="mailto:alex.w.malone128@gmail.com">Email</a>
