@@ -6,12 +6,11 @@
 Right now I'm learning Astro, React, and Javascript.
 </p>
 
-<h3>What about my personal life?</h3>
+<h3>What I do in my spare time?</h3>
 <p>
-:waxing_gibbous_moon: Amateur Astronomer <br/>
-:monocle_face: Apprentice Philosopher <br/>
-:technologist: Student of the Internet <br/>
-:headphones: Music Enjoyer
+:waxing_gibbous_moon: Astronomy <br/>
+:monocle_face: Study Philosophy <br/>
+:headphones: Music
 </p>
   
 <h2>How to reach me</h2>
