@@ -9,7 +9,7 @@ Right now I'm learning Astro, React, and Javascript.
 <h3>What I do in my spare time?</h3>
 <p>
 :waxing_gibbous_moon: Astronomy <br/>
-:monocle_face: Study Philosophy <br/>
+:monocle_face: Philosophy <br/>
 :headphones: Music
 </p>
   
