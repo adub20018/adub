@@ -1,9 +1,10 @@
 <h1> Hello, I'm Adub :wave: </h1>
 
 <h3>About Me...</h3>
-<p>I'm a self-taught developer, currently freelancing in web dev.
+<p> Studying Computer Science at Massey University <br>
+Freelancing in web dev on the side
 <br/>
-Right now I'm learning Astro, React, and Javascript.
+Right now I'm learning Javascript, Astro, React, and Next.js
 </p>
 
 <h3>What I do in my spare time?</h3>
