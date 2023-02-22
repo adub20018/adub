@@ -13,10 +13,8 @@ Right now I'm learning Javascript, Astro, React, and Next.js
 :monocle_face: Philosophy <br/>
 :headphones: Music
 </p>
-  
-<h2>How to reach me</h2>
+<h2></h2>
 
 <a href="https://discordapp.com/users/376211192307384330/">
 <img src="discord.png" height="14px" width="20px"/>
-Discord</a> <br/>
-<a href="mailto:alex.w.malone128@gmail.com">:envelope: Email</a>
+Add me on Discord</a>
