@@ -4,7 +4,7 @@
 <p> Studying Computer Science at Massey University <br>
 Freelancing in web dev on the side
 <br/>
-Right now I'm learning Javascript, Astro, React, and Next.js
+Right now I'm learning C++, Astro, React, and Netlify
 </p>
 
 <h3>What I do in my spare time?</h3>
