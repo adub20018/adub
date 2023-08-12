@@ -4,16 +4,8 @@
 <p> Studying Computer Science at Massey University <br>
 Freelancing in web dev on the side
 <br/>
-Right now I'm learning C++, Astro, JavaScript, React, and Netlify
+Right now I'm learning C++, TypeScript, and React.
 </p>
-
-<h3>What I do in my spare time?</h3>
-<p>
-:waxing_gibbous_moon: Astronomy <br/>
-:monocle_face: Philosophy <br/>
-:headphones: Music
-</p>
-<h2></h2>
 
 <a href="https://discordapp.com/users/376211192307384330/">
 <img src="discord.png" height="14px" width="20px"/>
